@@ -1,6 +1,6 @@
 # MP
 There are exercises with various algorithms. They aren't given explicite in contents of tasks, so I put below what problems contains each code:
-Exercise 01: Cadane 2D
+\nExercise 01: Cadane 2D
 Exercise 02: binary search
 Exercise 03: reverse Polish notation
 Exercise 04: just getting acquainted with lists in Java
